@@ -1,5 +1,7 @@
 wbid 
 
+📽️ [Download/View Demo Video](./w-bid.mp4)
+
 
 1. Project Idea and Objective
 The W_BID project introduces a mobile application that enables users to buy and sell items via electronic bidding, making it easier for people to access auctions at any time and from any place without needing to physically attend them.
